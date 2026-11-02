@@ -28,6 +28,7 @@ These repositories explore ways to extend the classic PiStorm beyond its usual r
 | **airpaula** | Stream Paula audio over Bluetooth using the Raspberry Pi3A+ onboard Bluetooth controller. | [airpaula](https://github.com/Telefonorosso/airpaula) |
 | **singlemon** | The cheapest KVM switch ever. PiStorm not required. | [singlemon](https://github.com/Telefonorosso/singlemon) |
 | **openvpn** | A real OpenVPN 2.6.23 client running as a native AmigaOS 68k application. | [openvpn](https://github.com/Telefonorosso/openvpn) |
+| **aminesiac** | Disposable AmigaOS Session. | [aminesiac](https://github.com/Telefonorosso/aminesiac) |
 
 ## Upstream
 
