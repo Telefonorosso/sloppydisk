@@ -14,10 +14,10 @@ These repositories explore ways to extend the classic PiStorm beyond its usual r
 
 | Project | What it does | Repository |
 |---|---|---|
-| **uarthog** | Emu68 console for early boot logs, runtime status, debug control and crash dumps. | [uarthog](https://github.com/Telefonorosso/uarthog) |
+| **uarthog** | Emu68 console for boot logs, runtime status, debug control and crash dumps. | [uarthog](https://github.com/Telefonorosso/uarthog) |
 | **ballless** | Uses a standard USB mouse directly as an Amiga mouse, no driver required. | [ballless](https://github.com/Telefonorosso/ballless) |
-| **scamdoubler** | Streams live Framethrower audio and video as a standard USB UVC capture device. | [scamdoubler](https://github.com/Telefonorosso/scamdoubler) |
-| **usbnet** | Direct SANA-II networking through the Pi 3A+ USB as a CDC-NCM Ethernet adapter. | [usbnet](https://github.com/Telefonorosso/usbnet-device) |
+| **scamdoubler** | Streams live Framethrower audio and video as an USB UVC capture device. | [scamdoubler](https://github.com/Telefonorosso/scamdoubler) |
+| **usbnet** | Direct SANA-II networking through the Pi 3A+ USB as an Ethernet adapter. | [usbnet](https://github.com/Telefonorosso/usbnet-device) |
 | **pauladaw** | Reconstructs Paula audio and exposes it as a standard UAC1 USB audio source. | [pauladaw](https://github.com/Telefonorosso/pauladaw) |
 | **paulastorm** | Experimental Paula audio reconstruction and HDMI injection. | [paulastorm](https://github.com/Telefonorosso/paulastorm) |
 | **sidecarm** | Runs an ARM64 Linux service alongside AmigaOS on PiStorm. | [sidecarm](https://github.com/Telefonorosso/sidecARM) |
