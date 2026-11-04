@@ -14,18 +14,18 @@ These repositories explore ways to extend the classic PiStorm beyond its usual r
 
 | Project | What it does | Repository |
 |---|---|---|
-| **uarthog** | USB CDC console for early boot logs, runtime status, debug control, crash dumps and reboot. | [uarthog](https://github.com/Telefonorosso/uarthog) |
-| **ballless** | Uses a standard USB HID mouse directly as an Amiga mouse, with no AmigaOS USB driver required. | [ballless](https://github.com/Telefonorosso/ballless) |
-| **scamdoubler** | Streams live Framethrower audio and video to a modern computer as a standard USB UVC capture device. | [scamdoubler](https://github.com/Telefonorosso/scamdoubler) |
-| **usbnet** | Direct 68k SANA-II networking through the Pi 3A+ DWC2 controller as a CDC-NCM Ethernet adapter. | [usbnet](https://github.com/Telefonorosso/usbnet-device) |
-| **pauladaw** | Reconstructs Paula audio in Emu68 and exposes it to a modern host as a standard UAC1 USB audio source. | [pauladaw](https://github.com/Telefonorosso/pauladaw) |
-| **paulastorm** | Experimental Paula audio reconstruction with HDMI injection. | [paulastorm](https://github.com/Telefonorosso/paulastorm) |
-| **sidecarm** | Runs an ARM64 Linux service alongside AmigaOS on PiStorm, with shared storage, console and framebuffer integration. | [sidecarm](https://github.com/Telefonorosso/sidecARM) |
+| **uarthog** | Emu68 console for early boot logs, runtime status, debug control and crash dumps. | [uarthog](https://github.com/Telefonorosso/uarthog) |
+| **ballless** | Uses a standard USB mouse directly as an Amiga mouse, no driver required. | [ballless](https://github.com/Telefonorosso/ballless) |
+| **scamdoubler** | Streams live Framethrower audio and video as a standard USB UVC capture device. | [scamdoubler](https://github.com/Telefonorosso/scamdoubler) |
+| **usbnet** | Direct SANA-II networking through the Pi 3A+ USB as a CDC-NCM Ethernet adapter. | [usbnet](https://github.com/Telefonorosso/usbnet-device) |
+| **pauladaw** | Reconstructs Paula audio and exposes it as a standard UAC1 USB audio source. | [pauladaw](https://github.com/Telefonorosso/pauladaw) |
+| **paulastorm** | Experimental Paula audio reconstruction and HDMI injection. | [paulastorm](https://github.com/Telefonorosso/paulastorm) |
+| **sidecarm** | Runs an ARM64 Linux service alongside AmigaOS on PiStorm. | [sidecarm](https://github.com/Telefonorosso/sidecARM) |
 | **l3-netkeys** | Keyboard and mouse bridge for classic Amiga systems. PiStorm not required. | [l3-netkeys](https://github.com/Telefonorosso/l3-netkeys) |
 | **l2boot** | Boot and storage experiments for large Amiga HDF images. PiStorm not required. | [l2boot](https://github.com/Telefonorosso/l2boot) |
 | **peekaboot** | Boot an HDF image served by a Windows companion app. | [peekaboot](https://github.com/Telefonorosso/peekaboot) |
-| **ddcswitch** | Utility for switching the HDMI monitor input directly through DDC/CI from an Emu68/PiStorm system. | [ddcswitch](https://github.com/Telefonorosso/ddcswitch) |
-| **airpaula** | Stream Paula audio over Bluetooth using the Raspberry Pi3A+ onboard Bluetooth controller. | [airpaula](https://github.com/Telefonorosso/airpaula) |
+| **ddcswitch** | Utility for switching the HDMI monitor input from Emu68. | [ddcswitch](https://github.com/Telefonorosso/ddcswitch) |
+| **airpaula** | Stream Paula audio over Bluetooth using the Pi3A+ onboard Bluetooth controller. | [airpaula](https://github.com/Telefonorosso/airpaula) |
 | **singlemon** | The cheapest KVM switch ever. PiStorm not required. | [singlemon](https://github.com/Telefonorosso/singlemon) |
 | **openvpn** | A real OpenVPN 2.6.23 client running as a native AmigaOS 68k application. | [openvpn](https://github.com/Telefonorosso/openvpn) |
 | **aminesiac** | Disposable AmigaOS Session. | [aminesiac](https://github.com/Telefonorosso/aminesiac) |
